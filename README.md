@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [weDevs](https://wedevs.com/)
 
-- 🌱 I’m currently learning **PHP, CSS, React, how to become the best Customer Success, how to be an excellent Support Engineer, etc.**
+- 🌱 I’m currently learning **PHP, CSS, React, how to become the best Customer Success specialist, how to be an excellent Support Engineer, etc.**
 
 - 👯 I’m looking to collaborate on **any Support Engineer related role.**
 
