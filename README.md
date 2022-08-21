@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [weDevs](https://wedevs.com/)
 
-- 🌱 I’m currently learning **PhP, CSS, React, Customer Success, Support Engineer, etc.**
+- 🌱 I’m currently learning **PHP, CSS, React, how to become the best Customer Success, how to be an excellent Support Engineer, etc.**
 
 - 👯 I’m looking to collaborate on **any Support Engineer related role.**
 
 - 👨‍💻 All of my projects are available at [https://cutt.ly/IXTUIGK](https://cutt.ly/IXTUIGK)
 
-- 💬 Ask me about **Customer support and customer success.**
+- 💬 Ask me about **Customer Support and Customer Success.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/yeasin-arafat1998/**
 
